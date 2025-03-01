@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/files"/>
+    <qresource prefix="/">
+        <file>imgs/1.png</file>
+        <file>imgs/2.png</file>
+        <file>imgs/3.png</file>
+        <file>imgs/Гыгорь во вьетнаме.jpg</file>
+        <file>imgs/Негр во вьетнаме.jpg</file>
+        <file>imgs/РЖАЧНЫЙ ДАВИД.jpg</file>
+        <file>imgs/Супер гениальный Васк.jpg</file>
+    </qresource>
+</RCC>
