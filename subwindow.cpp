@@ -11,7 +11,7 @@ SubWindow::SubWindow(int number)
         buttons[i]=new QPushButton();
         labels[i]=new QLabel();
         tamatamas[i]=new Tamagochi();
-        QString meme=QString::number(rand()%14+1);
+        QString meme=QString::number(rand()%16+1);
         labels[i]->setPixmap(QPixmap(":///imgs/"+meme+".png").scaled(100, 100));
         tamatamas[i]->set_pic(":///imgs/"+meme+".png");
         //buttons[i]->setText(tamatamas[i]->get_name());
